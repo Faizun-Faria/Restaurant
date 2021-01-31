@@ -2,6 +2,8 @@
 
 An online platform to search for food and restaurants.
 
+![View](https://github.com/Faizun-Faria/Restaurant/blob/main/Preview/RestaurantSearch.gif)
+
 ---------------------------
 
 ### features
